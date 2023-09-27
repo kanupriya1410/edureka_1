@@ -1,2 +1,7 @@
 addd
+<<<<<<< HEAD
 jbbn
+=======
+
+ijljljlj
+>>>>>>> 18bdaecbed79e085dd83f217133f5d2514b61470
